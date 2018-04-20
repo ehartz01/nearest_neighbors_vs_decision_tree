@@ -1,7 +1,8 @@
 README
 Ethan Hartzell
 Machine Learning
-Assignment 1
+Assignment 1	-- This assignment was to compare results obtained by a decision tree algorithm and a nearest neighbors algorithm.
+
 
 The program runs the data through weka and produces plots.
 These plots are also saved in this folder.
