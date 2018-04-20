@@ -1,0 +1,5 @@
+Ethan Hartzell
+
+3.1) Based on the graph we can see that nearest neighbors is highly affected (detrimentally) by irrelevent features, where the decision tree algorithm is not greatly affected.
+
+3.2) Based on the graph, increasing the size of the training set generally increases accuracy except for nearest neighbors when there is a large number of irrelevent features.

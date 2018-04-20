@@ -1,0 +1,16 @@
+README
+Ethan Hartzell
+Machine Learning
+Assignment 1
+
+The program runs the data through weka and produces plots.
+These plots are also saved in this folder.
+The program depends on matplotlib and requires that the data files be kept in a file called data.
+
+To run, simply enter
+python run_exp.py
+
+Make sure that weka is in your path variable
+This program is designed to run linux
+
+This program uses its own arff reader implemented in the class arff_file()
